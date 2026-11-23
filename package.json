@@ -1,0 +1,14 @@
+{
+  "name": "library-book-management-api",
+  "version": "1.0.0",
+  "description": "REST API for Library Book Management using Node.js and Express.js (in-memory storage)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["express", "rest-api", "library", "nodejs"],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
